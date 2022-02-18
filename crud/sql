@@ -1,0 +1,9 @@
+CREATE TABLE `products` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `sku` int NOT NULL,
+  `categoria` varchar(50) DEFAULT NULL,
+  `nombre` varchar(50) DEFAULT NULL,
+  `price` float DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE = InnoDB AUTO_INCREMENT = 6 DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci
+

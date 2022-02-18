@@ -1,0 +1,30 @@
+[
+	{
+		"c0": 1,
+		"c1": 150,
+		"c2": "PRINCIPAL",
+		"c3": "PRIMER ITEM",
+		"c4": 500
+	},
+	{
+		"c0": 3,
+		"c1": 159,
+		"c2": "PRINCIPAL EDITADA",
+		"c3": "TERCER ITEM",
+		"c4": 960
+	},
+	{
+		"c0": 4,
+		"c1": 250,
+		"c2": "PRINCIPAL",
+		"c3": "CUARTO ITEM",
+		"c4": 960
+	},
+	{
+		"c0": 5,
+		"c1": 50,
+		"c2": "NUEVA",
+		"c3": "ITEMS NEW",
+		"c4": 360
+	}
+]
